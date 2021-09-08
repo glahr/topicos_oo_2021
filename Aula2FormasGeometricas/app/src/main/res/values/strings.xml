@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula 2 - Formas Geometricas</string>
+    <string-array name="shapes">
+        <item>Rectangle</item>
+        <item>Box</item>
+        <item>Circle</item>
+        <item>Sphere</item>
+        <item>Triangle</item>
+    </string-array>
+</resources>
